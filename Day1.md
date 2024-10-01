@@ -3,6 +3,6 @@
 Objective - To create a logic diagram <br>
 Tool - Draw.io (https://app.diagrams.net/)
 
+This logic diagram is made to understand the flow of data through the network and devices 
 
 
-![Logic_Diagram_Day1 drawio](https://github.com/user-attachments/assets/b596d0a1-2ad8-4c63-9908-529733d66c5e)
