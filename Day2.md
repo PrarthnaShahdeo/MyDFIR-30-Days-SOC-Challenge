@@ -22,4 +22,6 @@ And the appropriate beats will be installed in the endpoint depending on the tel
 
 When the logstash is configured then agents such as Windows machine will be able to forward their windows event logs into logstash using either Winlog beat or an elastic agent and then logstash will be able to transform those events and push it into the elasticsearch instance. Logstash has the capability to filter logs that meet a certain criteria making it costomizable to our environment.
 #### Kibana 
-Whem we use Kibana we have a web console to query for our logs stored within the elastic search instance. Kibana has many  
+Whem we use Kibana we have a web console to query for our logs stored within the elastic search instance. Kibana has many features and one of them is Kibana lens (a.k.a Visualization) where we can drag and drop elements to make our own dashboard, there is also data exploration which helps us to query for logs using esql and many more features. These help us to Search data, Visualisation, create reports, create alerts and many more.
+
+
